@@ -1,2 +1,14 @@
+/*Navbar*/
+.navbar-brand {
+	color: #ffffff !important;
+	background: teal;
+	text-shadow: none;
+	text-decoration-color: #ffffff;
+}
 
+/*Headings*/
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
+  color: #4aaaa5;
+}
 
