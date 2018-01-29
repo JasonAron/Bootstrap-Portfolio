@@ -1,7 +1,7 @@
 /*Navbar*/
 .navbar-brand {
 	color: #ffffff !important;
-	background: teal;
+	background: #4aaaa5;
 	text-shadow: none;
 	text-decoration-color: #ffffff;
 }
@@ -12,3 +12,24 @@ h1, h2, h3, h4, h5, h6 {
   color: #4aaaa5;
 }
 
+body {
+	background: #eee
+}
+/*Main-Section*/
+.col-lg-8 {
+	background-color: #ffffff !important;
+	padding-bottom: 20px !important;
+	border-left: 5px solid #eee;
+	border-right: 5px solid #eee;
+}
+
+.col-sm-8 {
+	background-color: #ffffff !important;
+	padding-bottom: 20px !important;
+	border-left: 5px solid #eee;
+	border-right: 5px solid #eee;
+}
+
+footer {
+	margin-top: -40px;
+}
